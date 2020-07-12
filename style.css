@@ -1,0 +1,32 @@
+.navbar{
+background-image: url("gambar/image7.jpg");
+background-size: cover;
+}
+.media{
+margin-top: 80px;
+margin-left: 40px;
+color: rebeccapurple;
+}
+.judul{
+margin-top: 80px;
+}
+.media img{
+height: 150px;
+margin-top: 10px;
+}
+.footer{
+text-align: center;
+color: rebeccapurple;
+margin-top: 60px;
+}
+.footer a{
+text-align: center;
+color: rebeccapurple;
+}
+.content-body{
+margin-top: 100px;
+text-align: center;
+}
+.content-body a{
+font-size: 20px;
+}
